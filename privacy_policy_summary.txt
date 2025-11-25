@@ -1,0 +1,68 @@
+================================================================================
+SHORT SUMMARY FOR GOOGLE PLAY CONSOLE (VIETNAMESE)
+================================================================================
+
+Ứng dụng Tịnh Độ Pháp Âm KHÔNG thu thập bất kỳ thông tin cá nhân nào. Tất cả dữ liệu (danh sách yêu thích, lịch sử nghe, vị trí phát nhạc, cài đặt giao diện) được lưu trữ hoàn toàn trên thiết bị của bạn. Chúng tôi KHÔNG sử dụng analytics, quảng cáo, hoặc chia sẻ dữ liệu với bên thứ ba. Ứng dụng chỉ yêu cầu quyền Internet để phát nhạc trực tuyến, Bluetooth để điều khiển tai nghe, và lưu trữ để tải xuống bài giảng offline.
+
+(Số ký tự: 437)
+
+================================================================================
+SHORT SUMMARY FOR GOOGLE PLAY CONSOLE (ENGLISH)
+================================================================================
+
+Tịnh Độ Pháp Âm app DOES NOT collect any personal information. All data (favorites, listening history, playback position, UI settings) is stored completely on your device. We DO NOT use analytics, advertising, or share data with third parties. The app only requires Internet permission for online streaming, Bluetooth for headset control, and storage for offline downloads.
+
+(Characters: 383)
+
+================================================================================
+DATA SAFETY SECTION - GOOGLE PLAY CONSOLE
+================================================================================
+
+RECOMMENDED ANSWERS for Google Play Console Data Safety Form:
+
+1. Does your app collect or share any of the required user data types?
+   ✅ NO
+
+2. Is all of the user data collected by your app encrypted in transit?
+   ✅ YES (HTTPS for audio streaming)
+
+3. Do you provide a way for users to request that their data is deleted?
+   ✅ YES (Users can clear app data from device settings)
+
+4. What data does your app collect?
+   ✅ NO DATA COLLECTED
+
+   Note: Settings and favorites are stored locally and never transmitted.
+
+5. What data does your app share?
+   ✅ NO DATA SHARED
+
+================================================================================
+PERMISSIONS EXPLANATION FOR GOOGLE PLAY
+================================================================================
+
+INTERNET:
+- Purpose: Stream Buddhist dharma lectures from our content delivery network
+- User Benefit: Listen to lectures online without downloading
+
+WAKE_LOCK:
+- Purpose: Keep device awake during audio playback
+- User Benefit: Uninterrupted listening experience
+
+FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK:
+- Purpose: Continue audio playback when app is in background
+- User Benefit: Listen while using other apps
+
+BLUETOOTH & BLUETOOTH_CONNECT:
+- Purpose: Control playback via Bluetooth headsets/speakers
+- User Benefit: Convenient media controls from Bluetooth devices
+
+RECEIVE_BOOT_COMPLETED:
+- Purpose: Resume interrupted downloads after device restart
+- User Benefit: Automatic download resumption
+
+REQUEST_IGNORE_BATTERY_OPTIMIZATIONS:
+- Purpose: Prevent system from interrupting download process
+- User Benefit: Reliable offline downloads
+
+================================================================================
